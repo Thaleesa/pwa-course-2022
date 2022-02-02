@@ -8,6 +8,8 @@
 }
 
 .userlist {
+  color: white;
+  text-align: center;
   background-color: rgb(74, 127, 206);
   flex: 2;
   
